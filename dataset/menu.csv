@@ -1,0 +1,42 @@
+50-dollars-meal,beverages,breakfast,extra-value-meals,happy-meal,mccafe,side-order,signature-series,snacks
+51: cheese-burger-and-coke,92: iced-americano,0: egg-mcmuffin,18: big-mac,48: chicken-mcnuggets-4-pieces-happy-meal,59: espresso,42: french-fries-side-order,36: blt-angus-beef-burger,133: hamburger
+52: mcchicken-and-hot-black-tea,93: americano,1: sausage-mcmuffin,19: double-cheese-burger,49: burger-happy-meal,60: americano,43: salad-side-order,37: blt-spicy-chicken-burger,134: cheese-burger
+53: chicken-mcnuggets-4-pieces-and-corn-soup,94: latte,2: sausage-mcmuffin-with-egg,20: grilled-bbq-chicken-burger,50: mcfish-happy-meal,61: iced-americano,44: chicken-mccrispy-side-order,38: blt-grilled-chicken-burger,135: sweet-potato
+54: tender-chicken-wing-and-coke,95: latte-large,3: mega-mcmuffin,21: mcchicken,,62: latte,45: mcflurry-fries-side-order,39: mushroom-angus-beef-burger,136: french-fries-small
+55: spicy-chicken-wing-and-fuze-tea,96: iced-latte,4: chicken-muffin-with-egg,22: chicken-mcnuggets-6-pieces,,63: latte-large,46: nuggets-fries-side-order,40: caesar-salad-with-spicy-fried-chicken-filet,137: french-fries-medium
+56: ice-cream-cone-large-and-sprite,97: iced-latte-large,5: chicken-muffin,23: chicken-mcnuggets-10-pieces,,64: iced-latte,47: sweet-potato-side-order,41: italian-salad-with-grilled-chicken-filet,138: french-fries-large
+57: apple-pie-and-hot-black-tea,98: cappuccino,6: muffin-with-vegetables,24: spicy-chicken-filet-burger,,65: iced-latte-large,,,139: hash-browns
+58: french-fries-and-sprite,99: cappuccino-large,7: egg-burger-with-chicken,25: chicken-mccrispy-wing-2-pieces,,66: cappuccino,,,140: spicy-chicken-wing-2-pieces
+,100: iced-cappuccino,8: egg-burger,26: spicy-chicken-mccrispy-wing-2-pieces,,67: cappuccino-large,,,141: spicy-chicken-wing-6-pieces
+,101: honey-black-tea-iced,9: egg-burger-with-sausage,27: chicken-mccrispy-2-pieces,,68: iced-cappuccino,,,142: tender-chicken-wing-2-pieces
+,102: honey-milk-tea-hot,10: egg-burger-with-canadian-bacon,28: spicy-chicken-mccrispy-2-pieces,,69: mocha-medium,,,143: tender-chicken-wing-6-pieces
+,103: honey-milk-tea-iced,11: hotcakes-with-sausage,29: filet-o-fish,,70: mocha-large,,,144: apple-pie
+,104: hot-black-tea,12: hotcakes-3-pieces,30: mushroom-angus-beef-burger,,71: iced-mocha,,,145: corn-cup
+,105: assam-milk-tea-medium,13: big-breakfast,31: blt-angus-beef-burger,,72: iced-mocha-large,,,146: salad-large
+,106: assam-milk-tea-large,14: grand-breakfast,32: blt-spicy-chicken-burger,,73: honey-black-tea-iced,,,147: sliced-apple
+,107: iced-assam-milk-tea-large,15: bagel-burger-with-bacon,33: blt-grilled-chicken-burger,,74: honey-milk-tea-hot,,,148: corn-soup-small
+,108: iced-assam-milk-tea-medium,16: bagel-burger-with-cheese,34: caesar-salad-with-spicy-fried-chicken-filet,,75: honey-milk-tea-iced,,,149: corn-soup-large
+,109: hot-milk-tea,17: plain-bagel,35: italian-salad-with-grilled-chicken-filet,,76: assam-milk-tea-medium,,,150: ice-cream-cone
+,110: hot-milk-tea-medium,,,,77: assam-milk-tea-large,,,151: ice-cream-cone-large
+,111: iced-milk-tea,,,,78: iced-assam-milk-tea-medium,,,152: mcflurry
+,112: iced-milk-tea-large,,,,79: iced-assam-milk-tea-large,,,153: chicken-mcnuggets-4-pieces
+,113: milk,,,,80: hot-chocolate,,,154: chicken-mcnuggets-6-pieces
+,114: taiwan-fresh-orange-juice,,,,81: hot-chocolate-large,,,155: chicken-mcnuggets-10-pieces
+,115: coke,,,,82: iced-chocolate,,,
+,116: coke-medium,,,,83: iced-chocolate-large,,,
+,117: coke-large,,,,84: honey-lemon-duet-frappe,,,
+,118: coke-zero,,,,85: mango-lemon-duet-frappe,,,
+,119: coke-zero-medium,,,,86: berry-lemon-duet-frappe,,,
+,120: coke-zero-large,,,,87: croissant,,,
+,121: sprite,,,,88: croissant-chocolate,,,
+,122: sprite-medium,,,,89: cinnamon-swirl,,,
+,123: sprite-large,,,,90: raisin-custard-swirl,,,
+,124: iced-black-tea-lemon-flavor,,,,91: blueberry-muesli-danish,,,
+,125: iced-black-tea-lemon-flavor-medium,,,,,,,
+,126: iced-black-tea-lemon-flavor-large,,,,,,,
+,127: iced-black-tea-sugar-free,,,,,,,
+,128: iced-black-tea-sugar-free-medium,,,,,,,
+,129: iced-black-tea-sugar-free-large,,,,,,,
+,130: iced-green-tea-sugar-free,,,,,,,
+,131: iced-green-tea-sugar-free-medium,,,,,,,
+,132: iced-green-tea-sugar-free-large,,,,,,,
